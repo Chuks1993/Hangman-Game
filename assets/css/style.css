@@ -1,0 +1,38 @@
+body {
+	background-image:url("../images/hollywood.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.title {
+	font-family: 'Monoton', cursive;
+	font-size: 150px;
+	color: white;
+}
+
+.container-fluid {
+	text-align: center;
+}
+
+.line {
+	border: 1px solid white;
+}
+
+#underscores {
+	font-size: 150px;
+	letter-spacing: 30px;
+}
+
+#wrong {
+	font-size: 50px;
+	font-family: 'Righteous', cursive;
+	color: red;
+}
+
+#remain, #text {
+	font-size: 50px;
+	color: white;
+}
